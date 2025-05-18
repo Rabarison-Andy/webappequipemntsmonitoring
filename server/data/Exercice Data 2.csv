@@ -1,0 +1,28 @@
+Horodatage ;Id équipement;Localisation ;Type ;Conforme ;Critair ;Motorisation ;Catégorie ;Dérogation
+4/16/24 14:07;22;Lilas;PL;FAUX;5;Hybride rechargeable;TCP;Sans dérogation
+4/11/24 9:03;19;Saint-Denis;Autres;FAUX;1;Electrique;QM;Sans dérogation
+4/7/24 8:15;45;Aubervilliers;Autres;VRAI;0;Hybride non rechargeable;QM;Locale
+3/19/24 12:45;56;Créteil;Autres;VRAI;1;Hybride non rechargeable;VP;Sans dérogation
+3/19/24 11:22;22;Lilas;VUL;FAUX;5;Diesel;VASP;Nationale
+3/15/24 9:23;21;Paris 13;VP;VRAI;2;Essence;VP;Sans dérogation
+3/8/24 15:47;2;Chatillon;VP;FAUX;4;Essence;VP;Locale
+3/2/24 11:33;33;Bercy;Autres;VRAI;N.C.;Electrique;VASP;Locale
+2/28/24 16:22;19;Saint-Denis;VUL;FAUX;4;Diesel;CTTE;Locale
+2/17/24 10:15;21;Paris 13;VUL;VRAI;2;Diesel;CTTE;Sans dérogation
+2/12/24 10:05;33;Bercy;VUL;VRAI;N.C.;Essence;TRR;Sans dérogation
+2/5/24 16:55;45;Aubervilliers;TCP;VRAI;0;Hybride non rechargeable;TCP;Locale
+2/3/24 11:37;56;Créteil;PL;VRAI;4;Hybride rechargeable;CAM;Nationale
+1/25/24 17:30;18;Paris 18;PL;VRAI;3;Hybride rechargeable;TRA;Locale
+1/23/24 13:29;56;Créteil;PL;VRAI;3;Hybride rechargeable;CAM;Nationale
+1/22/24 14:55;2;Chatillon;VUL;FAUX;3;Diesel;CTTE;Locale
+1/10/24 9:55;45;Aubervilliers;VP;VRAI;0;Essence;CAM;Nationale
+12/20/23 8:40;18;Paris 18;TCP;FAUX;3;Hybride non rechargeable;TRR;Nationale
+12/18/23 16:42;19;Saint-Denis;TCP;FAUX;1;Electrique;TCP;Sans dérogation
+12/5/23 15:18;2;Chatillon;TCP;FAUX;2;Electrique;MAGA;Nationale
+11/30/23 13:50;22;Lilas;VP;FAUX;5;Diesel;VASP;Nationale
+
+Horodatage ;Id équipement;Localisation ;Source ;Message
+3/15/24 9:23;21;Paris 13;Caméra;Perte de connexion
+1/22/24 14:55;2;Chatillon;PMV;Message non affiché
+2/3/24 11:37;56;Créteil;Serveur local;Envoi des statistique echoué. 2ème tentative dans 15 minutes
+12/18/23 16:42;19;Saint-Denis;Connectivité 4G;Perte du lien avec le dispositif
